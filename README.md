@@ -13,3 +13,4 @@ https://adoptium.net
 # Build
 
 - Build under Linux to preserve executable bit on sh files
+- zip -r freemind-bin.zip freemind
